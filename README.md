@@ -1,1 +1,1 @@
-Um algoritmo com um mini-game via terminal, onde você escolhe o menor número possível e o maior possível para chutar. Conta com sistema de pontuação pra dizer quantos chutes foi preciso para acertar, e com mensagem se o chute foi abaixo ou acima do número escolhido pelo programa.
+Um algoritmo via Terminal com um mini-game via terminal, onde você escolhe o menor número possível e o maior possível para chutar. Conta com sistema de pontuação pra dizer quantos chutes foi preciso para acertar, e com mensagem se o chute foi abaixo ou acima do número escolhido pelo programa.
